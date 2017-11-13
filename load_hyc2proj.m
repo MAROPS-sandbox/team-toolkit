@@ -2,6 +2,7 @@ function [time_s,lon_s,lat_s,depth_s,lwr_intf_s,saln_s,temp_s,u_s,v_s,ssh_s]=loa
 % function [time,dist,lon,lat,depth,lwr_intf,saln,temp,utot,vtot,kinetic,diffs,pres,ssh]=load_hyc2proj(fname)
 %
 % load hycom surface data into matlab
+% N. Malan, Cape Town, August 2015
 %
 % netcdf section data extracted on hexagon with /home/nersc/nmalan/hycom/MSCPROGS/bin/hyc2proj
 % 
